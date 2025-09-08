@@ -1,0 +1,35 @@
+h1 {
+  color: blue;
+}
+.purple {
+  color: blueviolet;
+}
+html {
+  background-color: white;
+}
+p {
+  font-size: 20px;
+  font-family: sans-serif;
+  background-color: black;
+  padding: 20px;
+  border: 5px solid blue;
+  border-radius: 50px;
+}
+.navbar {
+  background-color: lightseagreen !important;
+}
+.navbar .form-control::placeholder {
+  color: black;
+}
+.navbar input {
+  background-color: aqua;
+}
+.navbar input:focus {
+  background-color: blanchedalmond;
+}
+.navbar.dropdown-menu {
+  background-color: blanchedalmond;
+}
+.navbar.dropdown-menu a {
+  color: black;
+}
