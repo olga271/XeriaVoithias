@@ -24,12 +24,7 @@ p {
 .navbar input {
   background-color: aqua;
 }
-.navbar input:focus {
-  background-color: blanchedalmond;
-}
-.navbar.dropdown-menu {
-  background-color: blanchedalmond;
-}
-.navbar.dropdown-menu a {
-  color: black;
+.hands-container {
+  display: flex;
+  justify-content: center;
 }
