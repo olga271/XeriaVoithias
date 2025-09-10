@@ -1,5 +1,5 @@
 h1 {
-  color: darkslateblue;
+  color: rgb(2, 3, 35);
 }
 .purple {
   color: blueviolet;
@@ -12,7 +12,7 @@ p {
   font-family: sans-serif;
   background-color: rgb(230, 232, 231);
   padding: 20px;
-  border: 5px solid darkblue;
+  border: 5px solid rgb(19, 91, 208);
   border-radius: 50px;
 }
 .navbar {
@@ -27,4 +27,7 @@ p {
 .hands-container {
   display: flex;
   justify-content: center;
+}
+.purple {
+  color: rgb(157, 206, 229);
 }
